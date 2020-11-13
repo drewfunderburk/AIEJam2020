@@ -9,7 +9,12 @@ namespace AIEJam2020
         Actor[] _actors = new Actor[0];
         public bool Started { get; set; }
 
-
+        public Scene()
+        {
+            Started = false;
+            _actors = new Actor[0];
+        }
+        #region ACTORS
         public void AddActor(Actor actor)
         {
             //Create a new array with a size one greater than our old array
@@ -106,26 +111,44 @@ namespace AIEJam2020
                     RemoveActor(_actors[i]);
             }
         }
-
+        #endregion
         #region CORE
         public void Start()
         {
-
+            Started = true;
         }
         
-        public void Update()
+        public void Update(float deltaTime)
         {
+            // Update all actors
+            for (int i = 0; i < _actors.Length; i++)
+            {
+                if (!_actors[i].Started)
+                    _actors[i].Start();
 
+                _actors[i].Update(deltaTime);
+            }
         }
 
         public void Draw()
         {
-
+            // Draw all actors
+            for (int i = 0; i < _actors.Length; i++)
+            {
+                _actors[i].Draw();
+            }
         }
 
         public void End()
         {
+            // End all actors
+            for (int i = 0; i < _actors.Length; i++)
+            {
+                if (_actors[i].Started)
+                    _actors[i].End();
+            }
 
+            Started = false;
         }
         #endregion
     }

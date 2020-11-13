@@ -12,7 +12,7 @@ namespace AIEJam2020
 
         }
 
-        public override void Update()
+        public override void Update(float deltaTime)
         {
 
         }

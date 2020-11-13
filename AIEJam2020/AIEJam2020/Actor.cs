@@ -15,7 +15,7 @@ namespace AIEJam2020
 
         }
 
-        public virtual void Update()
+        public virtual void Update(float deltaTime)
         {
 
         }
