@@ -1,0 +1,11 @@
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\bin\Debug\netcoreapp3.1\AIEJam2020.exe
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\bin\Debug\netcoreapp3.1\AIEJam2020.deps.json
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\bin\Debug\netcoreapp3.1\AIEJam2020.runtimeconfig.json
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\bin\Debug\netcoreapp3.1\AIEJam2020.runtimeconfig.dev.json
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\bin\Debug\netcoreapp3.1\AIEJam2020.dll
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\bin\Debug\netcoreapp3.1\AIEJam2020.pdb
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\obj\Debug\netcoreapp3.1\AIEJam2020.csprojAssemblyReference.cache
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\obj\Debug\netcoreapp3.1\AIEJam2020.AssemblyInfoInputs.cache
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\obj\Debug\netcoreapp3.1\AIEJam2020.AssemblyInfo.cs
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\obj\Debug\netcoreapp3.1\AIEJam2020.dll
+C:\Users\s208059\Documents\Git\AIEJam2020\AIEJam2020\AIEJam2020\obj\Debug\netcoreapp3.1\AIEJam2020.pdb

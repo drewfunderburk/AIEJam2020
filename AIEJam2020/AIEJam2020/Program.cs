@@ -6,6 +6,8 @@ namespace AIEJam2020
     {
         static void Main(string[] args)
         {
+            
+            Console.SetWindowSize(100, 60);
             Game game = new Game();
             game.Run();
         }
